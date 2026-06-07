@@ -1,0 +1,1 @@
+# ITFlashCardApp_AndStd
